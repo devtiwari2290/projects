@@ -6,6 +6,7 @@ tl.from("#nav, #nav1 h3,i, #nav2 h1, #nav3 button",{
     duration:1,
     delay:1,
     stagger:0.3,
+    
   
 })
 
